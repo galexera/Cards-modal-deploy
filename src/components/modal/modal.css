@@ -1096,6 +1096,7 @@ ul {
 a,
 button,
 .link {
+	 text-decoration: none;
 	-webkit-appearance: none;
 	-moz-appearance: none;
 	appearance: none;

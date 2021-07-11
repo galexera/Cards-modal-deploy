@@ -142,7 +142,7 @@ article.card-container .about-container .avatar-img-container img{
     margin-top:.75rem;
 }
 .like-button,.comment-button{
-    padding:.5rem 1rem;
+    /* padding:.5rem 1rem; */
     transition: transform 125ms cubic-bezier(0.17, 0.89, 0.36, 2) 0s, -webkit-transform 125ms cubic-bezier(0.17, 0.89, 0.36, 2) 0s;
     background:rgb(255, 255, 255);
     border:1px solid rgb(214, 218, 224);
@@ -159,7 +159,6 @@ article.card-container .about-container .avatar-img-container img{
 }
 .like-button.liked{
     color:#f73859;
-     text-decoration: none;
 }
 .like-button svg, .comment-button svg{
     overflow: visible;

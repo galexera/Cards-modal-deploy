@@ -159,6 +159,7 @@ article.card-container .about-container .avatar-img-container img{
 }
 .like-button.liked{
     color:#f73859;
+    text-decoration: none;
 }
 .like-button svg, .comment-button svg{
     overflow: visible;
